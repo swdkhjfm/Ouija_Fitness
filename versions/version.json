@@ -1,8 +1,10 @@
 {
   "latest_version": "0.9.1",
   "publish_date": "2026-06-03",
-  "download_url": "https://github.com/swdkhjfm/muscle-exe/releases/download/v0.9.1/健身_安装包_Setup.exe",
   "whats_new": [
-    "健身.exe 感觉能给别人用的版本发布啦！牛逼！"
-  ]
+    "测试增量更新功能"
+  ],
+  "full_installer_url": "https://github.com/swdkhjfm/muscle-exe/releases/download/v0.9.1/健身_安装包_Setup.exe",
+  "incremental_zip_url": "https://github.com/swdkhjfm/Ouija_Fitness/releases/download/v0.9.1/update_v0.9.1.zip",
+  "incremental_compatible_min_version": "0.9.0"
 }
